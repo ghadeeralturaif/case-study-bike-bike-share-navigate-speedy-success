@@ -20,6 +20,8 @@ Process
 9. Save the cleaning process  to csv file. <br />
 # Analysis
 
+You can look at the analysis I made in the R programming language in the Bikeproject.ipynb file.
+
 # Share
 In this step, will create visualizations and key findings through Google colab. <br />
 # Act
