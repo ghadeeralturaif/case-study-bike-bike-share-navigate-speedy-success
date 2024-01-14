@@ -23,7 +23,7 @@ Process
 You can look at the analysis I made in the R programming language in the Bikeproject.ipynb file.
 
 # Share
-In this step, will create visualizations and key findings through Google colab. <br />
+In this step, You can look at the visualizations and key findings I made in the R programming language in the Bikeproject.ipynb file through Google colab. <br />
 # Act
 ### Conclusions:
 Members usually ride at weekday while casual members ride more at weekends. <br />
